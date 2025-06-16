@@ -22,6 +22,7 @@ This task aims to extract business insights and trends from relational data.
 
 ## 🧩 Dataset Schema
 
+```plaintext
 📦 customers
 - customer_id (PK)
 - name
@@ -40,6 +41,7 @@ This task aims to extract business insights and trends from relational data.
 - product_id (FK)
 - order_date
 - quantity
+```
 
 ---
 
